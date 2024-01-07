@@ -1,0 +1,10 @@
+D:\code\CSharp_ERA\OX-Project\bin\Debug\OX-Project.exe.config
+D:\code\CSharp_ERA\OX-Project\bin\Debug\OX-Project.exe
+D:\code\CSharp_ERA\OX-Project\bin\Debug\OX-Project.pdb
+D:\code\CSharp_ERA\OX-Project\obj\Debug\OX-Project.csproj.AssemblyReference.cache
+D:\code\CSharp_ERA\OX-Project\obj\Debug\OX_Project.Form1.resources
+D:\code\CSharp_ERA\OX-Project\obj\Debug\OX_Project.Properties.Resources.resources
+D:\code\CSharp_ERA\OX-Project\obj\Debug\OX-Project.csproj.GenerateResource.cache
+D:\code\CSharp_ERA\OX-Project\obj\Debug\OX-Project.csproj.CoreCompileInputs.cache
+D:\code\CSharp_ERA\OX-Project\obj\Debug\OX-Project.exe
+D:\code\CSharp_ERA\OX-Project\obj\Debug\OX-Project.pdb
